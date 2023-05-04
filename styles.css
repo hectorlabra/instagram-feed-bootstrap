@@ -1,21 +1,16 @@
 .square {
-    padding-bottom: 25%;
-  }
+  padding-bottom: 25%;
+}
 
- .size-custom {
-    height: 400px;
-    width: 400x;
-    
- }
+.size-custom {
+  height: 400px;
+  width: 400x;
+}
 
-  .likes {
-    margin-bottom: -5px;
-  }
+.likes {
+  margin-bottom: -5px;
+}
 
-  .marginp {
-   margin-top: -15px;
-  }
-
-  .mt-1 {
-    margin-top: 1.20rem!important;
+.mt-1 {
+  margin-top: 1.2rem !important;
 }
